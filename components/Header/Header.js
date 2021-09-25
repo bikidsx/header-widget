@@ -14,7 +14,7 @@ import Travelers74Mn from '../../assets/images/74mn-travelers.svg';
 import TopHeader from './TopHeader';
 
 // import widget
-import Widget from '../Widget/Widget';
+import Widget from '../widget/Widget';
 
 const Header = () => {
     return (
